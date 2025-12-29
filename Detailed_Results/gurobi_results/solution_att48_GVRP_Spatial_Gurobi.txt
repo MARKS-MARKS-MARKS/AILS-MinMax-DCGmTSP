@@ -1,0 +1,12 @@
+Instance: att48-GVRP-Spatial
+Status: 9
+Makespan: 13176.1117
+Time_to_Best: 5.5120
+Total_Runtime: 7200.1260
+Active_Vehicles: 2
+WorkDistance_Constraint: 6524.0518
+------------------------------
+Route 0:
+  Distance: 12342.8850
+Route 1:
+  Distance: 13176.1117

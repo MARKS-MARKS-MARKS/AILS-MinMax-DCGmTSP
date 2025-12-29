@@ -1,0 +1,16 @@
+Instance: rd100-GVRP-Spatial
+Status: 9
+Makespan: 1476.0463
+Time_to_Best: 6004.3090
+Total_Runtime: 7200.3720
+Active_Vehicles: 4
+WorkDistance_Constraint: 967.7607
+------------------------------
+Route 0:
+  Distance: 1317.0727
+Route 1:
+  Distance: 1227.0589
+Route 2:
+  Distance: 1476.0477
+Route 3:
+  Distance: 1259.4408

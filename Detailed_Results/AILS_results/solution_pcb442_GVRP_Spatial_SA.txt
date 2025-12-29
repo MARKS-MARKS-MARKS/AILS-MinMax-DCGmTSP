@@ -1,0 +1,11 @@
+The instance is D:\chenxvsheji\SRTP_MinMax\Path planning-6\Path planning-4\instance_after\pcb442_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 6564.01
+The time which meets the best is: 4030.58
+The time consuming is  4030.58
+The time to meet the Best solution is 4030.58
+1 tour starts Depot 1: Group1_442 Group10_66 Group11_67 Group2_38 Group3_39 Group12_74 Group13_75 Group4_46 Group5_47 Group14_79 Group21_106 Group22_141 Group32_154 Group41_397 Group40_188 Group31_393 Group27_138 Group30_392 Group20_389 Group19_103 Depot 1
+2 tour starts Depot 2: Group75_337 Group67_427 Group58_437 Group50_265 Group57_416 Group53_263 Group54_262 Group79_419 Group49_255 Group48_254 Group78_418 Group61_296 Group71_322 Group72_323 Group64_300 Group65_301 Group73_328 Group66_305 Group74_432 Depot 2
+3 tour starts Depot 3: Group9_31 Group8_62 Group17_92 Group16_91 Group7_56 Group6_55 Group15_87 Group24_385 Group23_143 Group33_156 Group42_193 Group43_194 Group34_181 Group44_198 Group45_199 Group36_184 Group35_159 Group25_147 Group26_113 Group18_383 Depot 3
+4 tour starts Depot 4: Group76_341 Group68_308 Group60_283 Group62_284 Group69_313 Group70_314 Group63_288 Group77_421 Group47_246 Group46_229 Group39_403 Group38_399 Group29_173 Group28_172 Group37_185 Group51_405 Group52_240 Group56_270 Group55_273 Group59_276 Depot 4

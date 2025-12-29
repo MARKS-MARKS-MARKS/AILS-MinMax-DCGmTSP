@@ -1,0 +1,16 @@
+Instance: kroE100-GVRP-Spatial
+Status: 9
+Makespan: 4933.7751
+Time_to_Best: 163.6780
+Total_Runtime: 7200.3840
+Active_Vehicles: 4
+WorkDistance_Constraint: 3082.368
+------------------------------
+Route 0:
+  Distance: 4345.6104
+Route 1:
+  Distance: 4382.9558
+Route 2:
+  Distance: 4299.0257
+Route 3:
+  Distance: 4933.7751

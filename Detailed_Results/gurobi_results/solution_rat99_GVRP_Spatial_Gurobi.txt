@@ -1,0 +1,12 @@
+Instance: rat99-GVRP-Spatial
+Status: 9
+Makespan: 286.0529
+Time_to_Best: 7200.4360
+Total_Runtime: 7200.4410
+Active_Vehicles: 2
+WorkDistance_Constraint: 160.7944
+------------------------------
+Route 0:
+  Distance: 284.7054
+Route 1:
+  Distance: 286.0529

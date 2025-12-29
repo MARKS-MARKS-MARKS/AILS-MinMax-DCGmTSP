@@ -1,0 +1,11 @@
+The instance is instance_after/d493_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 7195.15
+The time which meets the best is: 4756.26
+The time consuming is  4756.26
+The time to meet the Best solution is 4756.26
+1 tour starts Depot 1: Group1_1 Group3_3 Group23_44 Group22_46 Group24_47 Group25_50 Group26_52 Group6_8 Group7_11 Group5_6 Group4_5 Group2_2 Depot 1
+2 tour starts Depot 2: Group41_103 Group44_109 Group46_118 Group51_124 Group54_141 Group55_151 Group57_157 Group62_178 Group67_214 Group69_226 Group72_232 Group63_204 Group66_203 Group60_184 Group65_197 Group61_185 Group64_194 Group13_190 Group59_181 Group58_171 Group52_155 Group56_152 Group53_147 Group49_136 Group48_127 Group45_115 Group43_108 Group39_105 Group40_100 Group36_89 Group37_91 Group38_94 Depot 2
+3 tour starts Depot 3: Group31_69 Group32_70 Group33_78 Group35_79 Group34_77 Group42_106 Group50_122 Group47_116 Group30_87 Group29_59 Group28_55 Group27_56 Group9_14 Group10_16 Group12_20 Group11_19 Group8_12 Depot 3
+4 tour starts Depot 4: Group83_468 Group82_464 Group79_462 Group15_25 Group16_27 Group17_28 Group18_32 Group20_40 Group19_38 Group21_41 Group14_22 Group73_301 Group76_305 Group68_298 Group71_297 Group77_317 Group70_299 Group75_353 Group80_417 Group81_418 Group74_394 Group78_372 Group86_482 Group85_476 Group84_475 Depot 4

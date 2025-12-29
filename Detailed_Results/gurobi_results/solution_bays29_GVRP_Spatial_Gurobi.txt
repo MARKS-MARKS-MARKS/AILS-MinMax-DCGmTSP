@@ -1,0 +1,12 @@
+Instance: bays29-GVRP-Spatial
+Status: 2
+Makespan: 2676.5782
+Time_to_Best: 0.1980
+Total_Runtime: 0.5040
+Active_Vehicles: 2
+WorkDistance_Constraint: 1781.9091
+------------------------------
+Route 0:
+  Distance: 2676.5782
+Route 1:
+  Distance: 2500.4692

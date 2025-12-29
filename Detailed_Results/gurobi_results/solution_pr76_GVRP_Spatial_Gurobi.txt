@@ -1,0 +1,12 @@
+Instance: pr76-GVRP-Spatial
+Status: 9
+Makespan: 31902.6486
+Time_to_Best: 4273.6680
+Total_Runtime: 7200.1120
+Active_Vehicles: 2
+WorkDistance_Constraint: 15871.9501
+------------------------------
+Route 0:
+  Distance: 31035.2725
+Route 1:
+  Distance: 31902.6486

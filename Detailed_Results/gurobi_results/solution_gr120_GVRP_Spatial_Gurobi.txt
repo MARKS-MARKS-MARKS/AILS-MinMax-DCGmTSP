@@ -1,0 +1,16 @@
+Instance: gr120-GVRP-Spatial
+Status: 9
+Makespan: 335.2884
+Time_to_Best: 606.8110
+Total_Runtime: 7201.0540
+Active_Vehicles: 4
+WorkDistance_Constraint: 202.0528
+------------------------------
+Route 0:
+  Distance: 311.5013
+Route 1:
+  Distance: 335.2884
+Route 2:
+  Distance: 311.7028
+Route 3:
+  Distance: 302.0700

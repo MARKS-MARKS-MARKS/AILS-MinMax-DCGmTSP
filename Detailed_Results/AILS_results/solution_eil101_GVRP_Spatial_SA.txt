@@ -1,0 +1,11 @@
+The instance is instance_after/eil101_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 97.27
+The time which meets the best is: 182.41
+The time consuming is  182.41
+The time to meet the Best solution is 182.41
+1 tour starts Depot 1: Group5_85 Group6_92 Group13_37 Group12_100 Depot 1
+2 tour starts Depot 2: Group3_81 Group1_51 Group15_66 Group9_65 Depot 2
+3 tour starts Depot 3: Group14_49 Group8_47 Group7_62 Group10_11 Depot 3
+4 tour starts Depot 4: Group16_55 Group11_26 Group2_21 Group4_56 Depot 4

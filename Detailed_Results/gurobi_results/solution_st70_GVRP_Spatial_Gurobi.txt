@@ -1,0 +1,12 @@
+Instance: st70-GVRP-Spatial
+Status: 9
+Makespan: 235.9044
+Time_to_Best: 5664.1030
+Total_Runtime: 7200.5010
+Active_Vehicles: 2
+WorkDistance_Constraint: 95.0815
+------------------------------
+Route 0:
+  Distance: 232.9092
+Route 1:
+  Distance: 235.9046

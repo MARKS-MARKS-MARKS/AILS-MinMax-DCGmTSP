@@ -1,0 +1,16 @@
+Instance: eil101-GVRP-Spatial
+Status: 9
+Makespan: 97.2652
+Time_to_Best: 2687.6560
+Total_Runtime: 7200.4030
+Active_Vehicles: 4
+WorkDistance_Constraint: 68.9456
+------------------------------
+Route 0:
+  Distance: 78.0342
+Route 1:
+  Distance: 86.1551
+Route 2:
+  Distance: 88.2865
+Route 3:
+  Distance: 97.2653

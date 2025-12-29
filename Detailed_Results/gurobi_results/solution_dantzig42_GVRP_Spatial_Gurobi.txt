@@ -1,0 +1,12 @@
+Instance: dantzig42-GVRP-Spatial
+Status: 11
+Makespan: 265.5289
+Time_to_Best: 737.1560
+Total_Runtime: 999.8750
+Active_Vehicles: 2
+WorkDistance_Constraint: 136.2575
+------------------------------
+Route 0:
+  Distance: 265.5292
+Route 1:
+  Distance: 255.1802

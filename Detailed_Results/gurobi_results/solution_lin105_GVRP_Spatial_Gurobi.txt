@@ -1,0 +1,16 @@
+Instance: lin105-GVRP-Spatial
+Status: 9
+Makespan: 3758.0252
+Time_to_Best: 732.8670
+Total_Runtime: 7200.7110
+Active_Vehicles: 4
+WorkDistance_Constraint: 2279.1881
+------------------------------
+Route 0:
+  Distance: 2678.6401
+Route 1:
+  Distance: 3758.0252
+Route 2:
+  Distance: 3641.5731
+Route 3:
+  Distance: 3700.8503

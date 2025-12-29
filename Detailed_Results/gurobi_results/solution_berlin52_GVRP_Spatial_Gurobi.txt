@@ -1,0 +1,12 @@
+Instance: berlin52-GVRP-Spatial
+Status: 2
+Makespan: 2840.5148
+Time_to_Best: 1.1220
+Total_Runtime: 3604.4910
+Active_Vehicles: 2
+WorkDistance_Constraint: 1453.2588
+------------------------------
+Route 0:
+  Distance: 2712.8295
+Route 1:
+  Distance: 2840.5148

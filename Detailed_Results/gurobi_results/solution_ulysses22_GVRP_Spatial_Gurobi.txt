@@ -1,0 +1,12 @@
+Instance: ulysses22-GVRP-Spatial
+Status: 2
+Makespan: 41.6450
+Time_to_Best: 0.0950
+Total_Runtime: 0.1340
+Active_Vehicles: 2
+WorkDistance_Constraint: 22.6124
+------------------------------
+Route 0:
+  Distance: 41.6450
+Route 1:
+  Distance: 40.9262

@@ -1,0 +1,16 @@
+Instance: pr124-GVRP-Spatial
+Status: 11
+Makespan: 14613.5968
+Time_to_Best: 148.9240
+Total_Runtime: 4823.6210
+Active_Vehicles: 4
+WorkDistance_Constraint: 9175.6817
+------------------------------
+Route 0:
+  Distance: 12046.3073
+Route 1:
+  Distance: 14613.5968
+Route 2:
+  Distance: 13524.1549
+Route 3:
+  Distance: 12932.9568

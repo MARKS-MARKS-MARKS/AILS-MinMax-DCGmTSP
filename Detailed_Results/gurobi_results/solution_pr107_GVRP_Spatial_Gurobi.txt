@@ -1,0 +1,16 @@
+Instance: pr107-GVRP-Spatial
+Status: 9
+Makespan: 8285.7899
+Time_to_Best: 402.2080
+Total_Runtime: 7200.4100
+Active_Vehicles: 4
+WorkDistance_Constraint: 7483.8643
+------------------------------
+Route 0:
+  Distance: 8285.7924
+Route 1:
+  Distance: 7238.7301
+Route 2:
+  Distance: 7289.6866
+Route 3:
+  Distance: 8144.6208
