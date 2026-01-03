@@ -1,9 +1,0 @@
-The instance is instances/small_test.gtsp
-The number of p is 2
-The output solution is non-optimal
-The longest Distance is: 99.85
-The time which meets the best is: 6.38
-The time consuming is  6.38
-The time to meet the Best solution is 6.38
-1 tour starts Depot 1: Group10_20 Group8_16 Group5_10 Group4_7 Group3_5 Group1_2 Group2_4 Group6_12 Group7_14 Group9_18 Depot 1
-2 tour starts Depot 2: Depot 2

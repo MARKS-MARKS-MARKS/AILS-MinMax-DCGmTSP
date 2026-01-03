@@ -1,9 +1,0 @@
-The instance is instance_after/bayg29_GVRP_Spatial.txt
-The number of p is 2
-The output solution is non-optimal
-The longest Distance is: 2676.58
-The time which meets the best is: 14.06
-The time consuming is  14.06
-The time to meet the Best solution is 14.06
-1 tour starts Depot 1: Group2_9 Group1_12 Depot 1
-2 tour starts Depot 2: Group3_14 Group4_19 Depot 2

@@ -1,0 +1,13 @@
+The instance is E:\新建文件夹\Path planning-6\Path planning-4\instance_after\u724_GVRP_Spatial.txt
+The number of p is 6
+The output solution is non-optimal
+The longest Distance is: 3801.58
+The time which meets the best is: 1154.05
+The time consuming is  1154.05
+The time to meet the Best solution is 1154.05
+1 tour starts Depot 1: Group1_1 Group141_724 Group2_722 Group137_694 Group12_25 Group18_45 Group30_689 Group15_47 Group16_34 Group21_78 Group32_117 Group136_676 Group133_667 Group132_666 Group134_677 Group19_672 Group27_79 Group131_670 Group135_680 Group130_682 Group17_81 Group20_40 Group14_95 Group8_26 Depot 1
+2 tour starts Depot 2: Group53_174 Group47_163 Group51_161 Group46_142 Group49_165 Group50_609 Group52_605 Group129_601 Group123_606 Group45_608 Group127_607 Group44_138 Group43_137 Group48_148 Group42_134 Group126_586 Group121_557 Group56_545 Group58_190 Group62_257 Group119_529 Group64_531 Group55_537 Group59_536 Group65_538 Group122_563 Group124_562 Group120_560 Group54_182 Depot 2
+3 tour starts Depot 3: Group110_396 Group95_402 Group94_305 Group92_303 Group77_232 Group78_242 Group63_206 Group66_238 Group79_241 Group72_227 Group70_218 Group75_228 Group73_220 Group74_347 Group100_338 Group99_337 Group76_355 Group93_304 Group96_398 Group108_399 Group109_400 Depot 3
+4 tour starts Depot 4: Group28_84 Group26_63 Group9_85 Group24_83 Group11_101 Group23_90 Group22_68 Group10_87 Group29_98 Group31_695 Group13_696 Group4_698 Group3_704 Group140_712 Group139_711 Group138_702 Group5_7 Group7_707 Group6_718 Depot 4
+5 tour starts Depot 5: Group60_262 Group68_210 Group69_251 Group61_515 Group82_521 Group67_209 Group71_225 Group118_519 Group81_265 Group57_258 Group125_567 Group128_585 Group80_278 Group83_276 Group39_280 Group40_603 Group37_172 Group38_167 Group36_121 Group35_120 Group25_651 Group34_119 Group33_649 Group41_171 Depot 5
+6 tour starts Depot 6: Group105_428 Group111_432 Group113_461 Group112_412 Group117_459 Group115_420 Group114_467 Group116_470 Group107_472 Group106_473 Group97_363 Group98_362 Group104_364 Group90_488 Group103_480 Group102_490 Group101_479 Group89_478 Group91_300 Group87_298 Group88_485 Group86_289 Group84_285 Group85_290 Depot 6

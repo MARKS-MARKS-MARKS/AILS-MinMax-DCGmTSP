@@ -1,0 +1,9 @@
+The instance is D:\fz\Path planning-6\Path planning-4\instance_after\eil51_GVRP_Spatial.txt
+The number of p is 2
+The output solution is non-optimal
+The longest Distance is: 123.62
+The time which meets the best is: 39.08
+The time consuming is  39.08
+The time to meet the Best solution is 39.08
+1 tour starts Depot 1: Group4_5 Group7_49 Group8_10 Group9_15 Group3_42 Depot 1
+2 tour starts Depot 2: Group1_8 Group6_23 Group5_6 Group2_3 Depot 2

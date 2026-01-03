@@ -1,0 +1,13 @@
+The instance is C:\Users\ASUS\Desktop\Path planning-6\Path planning-4\instance_after\gr666_GVRP_Spatial.txt
+The number of p is 6
+The output solution is non-optimal
+The longest Distance is: 501.85
+The time which meets the best is: 6171.93
+The time consuming is  6171.93
+The time to meet the Best solution is 6171.93
+1 tour starts Depot 1: Group27_108 Group28_109 Group52_218 Group31_130 Group32_134 Group33_135 Group24_103 Group23_104 Group25_117 Group30_115 Group29_110 Group26_107 Group115_665 Depot 1
+2 tour starts Depot 2: Group107_654 Group114_663 Group113_662 Group21_93 Group22_94 Group18_91 Group17_83 Group20_82 Group19_81 Group34_139 Group42_170 Group43_173 Group45_183 Group38_149 Group36_144 Group35_143 Group56_235 Group10_18 Group9_17 Group8_15 Group7_43 Group15_45 Group13_40 Group16_57 Group14_54 Group12_24 Group11_23 Group111_660 Group112_661 Depot 2
+3 tour starts Depot 3: Group2_2 Group3_3 Group4_7 Group5_10 Group6_12 Group61_309 Group60_308 Group57_298 Group59_299 Group65_318 Group1_1 Group62_310 Depot 3
+4 tour starts Depot 4: Group105_649 Group106_650 Group103_645 Group102_642 Group101_641 Group116_666 Depot 4
+5 tour starts Depot 5: Group108_655 Group109_657 Group99_639 Group104_647 Group100_640 Group92_586 Group91_580 Group90_578 Group87_559 Group55_234 Group54_232 Group49_215 Group50_222 Group48_220 Group53_219 Group51_217 Group46_194 Group44_196 Group47_200 Group41_201 Group40_508 Group83_509 Group84_510 Group75_531 Group85_533 Group86_547 Group88_562 Group89_564 Group95_608 Group94_599 Group93_596 Group98_636 Group110_659 Depot 5
+6 tour starts Depot 6: Group80_481 Group77_478 Group72_465 Group73_466 Group71_463 Group69_450 Group64_438 Group68_437 Group63_311 Group66_445 Group58_412 Group37_427 Group67_494 Group39_517 Group70_529 Group96_603 Group74_476 Group76_620 Group82_486 Group97_624 Group81_485 Group79_480 Group78_479 Depot 6

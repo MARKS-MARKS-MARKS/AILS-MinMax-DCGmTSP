@@ -1,0 +1,11 @@
+The instance is C:\Users\ASUS\Desktop\Path planning-6\Path planning-4\instance_after\linhp318_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 8122.62
+The time which meets the best is: 3597.14
+The time consuming is  3597.14
+The time to meet the Best solution is 3597.14
+1 tour starts Depot 1: Group1_6 Group4_12 Group6_19 Group7_33 Group11_104 Group12_41 Group9_37 Group8_35 Group10_38 Group37_145 Group40_160 Group52_210 Group39_152 Group38_149 Group35_141 Group33_138 Group30_127 Group5_13 Group27_115 Group2_5 Group3_9 Depot 1
+2 tour starts Depot 2: Group76_310 Group77_309 Group74_299 Group71_290 Group69_289 Group72_296 Group75_301 Group50_199 Group47_192 Group44_171 Group42_168 Group41_165 Group66_269 Group78_315 Group68_273 Group67_270 Group79_318 Group70_275 Group73_297 Depot 2
+3 tour starts Depot 3: Group54_215 Group55_219 Group58_226 Group53_217 Group28_110 Group29_114 Group32_122 Group31_119 Group56_239 Group59_241 Group34_139 Group36_143 Group63_255 Group65_257 Group64_254 Group61_247 Group62_249 Group60_245 Group57_223 Depot 3
+4 tour starts Depot 4: Group23_102 Group25_98 Group22_90 Group21_88 Group24_94 Group49_201 Group51_203 Group48_194 Group45_185 Group46_191 Group43_183 Group18_65 Group15_61 Group16_63 Group13_57 Group14_56 Group26_105 Group17_64 Group19_73 Group20_86 Depot 4

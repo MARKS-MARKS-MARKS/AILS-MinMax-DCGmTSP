@@ -1,9 +1,0 @@
-The instance is D:\chenxvsheji\SRTP_MinMax\Path planning-6\Path planning-4\instance_after\ulysses22_GVRP_Spatial.txt
-The number of p is 2
-The output solution is non-optimal
-The longest Distance is: 41.65
-The time which meets the best is: 4.30
-The time consuming is  4.30
-The time to meet the Best solution is 4.30
-1 tour starts Depot 1: Group2_5 Group4_11 Depot 1
-2 tour starts Depot 2: Group3_9 Group1_10 Depot 2

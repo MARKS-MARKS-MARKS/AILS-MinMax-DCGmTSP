@@ -1,0 +1,13 @@
+The instance is E:\Path planning-6\Path planning-4\instance_after\u574_GVRP_Spatial.txt
+The number of p is 6
+The output solution is non-optimal
+The longest Distance is: 4239.31
+The time which meets the best is: 6904.14
+The time consuming is  6904.14
+The time to meet the Best solution is 6904.14
+1 tour starts Depot 1: Group1_570 Group142_567 Group2_4 Group3_6 Group141_557 Group140_559 Group5_555 Group4_11 Group13_35 Group12_36 Group14_37 Group11_87 Group28_86 Group27_82 Group22_60 Group21_59 Group20_58 Group19_57 Group18_55 Group15_46 Group17_50 Group16_49 Group143_571 Depot 1
+2 tour starts Depot 2: Group130_504 Group129_498 Group128_497 Group132_508 Group131_507 Group121_479 Group123_477 Group120_517 Group64_247 Group57_204 Group56_206 Group63_237 Group62_228 Group61_229 Group59_212 Group60_216 Group10_23 Group9_21 Group8_17 Group7_222 Group133_525 Group135_527 Group134_526 Group137_534 Group136_536 Group6_545 Group139_544 Group138_541 Depot 2
+3 tour starts Depot 3: Group114_440 Group113_436 Group112_435 Group126_490 Group125_487 Group127_493 Group124_485 Group119_469 Group122_475 Group65_254 Group118_464 Group117_458 Group105_449 Group116_448 Group115_443 Group110_444 Group111_446 Group109_429 Depot 3
+4 tour starts Depot 4: Group24_65 Group23_63 Group26_72 Group25_116 Group31_123 Group32_122 Group33_108 Group29_107 Group30_94 Group46_165 Group45_155 Group44_153 Group42_150 Group43_151 Group40_146 Group41_145 Group39_138 Group38_136 Group34_133 Group35_127 Group36_128 Group37_130 Depot 4
+5 tour starts Depot 5: Group79_291 Group78_292 Group77_288 Group48_172 Group49_174 Group51_180 Group47_211 Group58_209 Group50_186 Group52_187 Group53_189 Group55_195 Group54_190 Group74_278 Group73_276 Group69_275 Group72_323 Group87_330 Group86_327 Group85_324 Group83_320 Group84_314 Group75_282 Group76_283 Group80_305 Group81_304 Group82_299 Depot 5
+6 tour starts Depot 6: Group91_346 Group92_369 Group100_368 Group93_350 Group99_364 Group98_363 Group94_353 Group97_359 Group95_358 Group96_357 Group108_428 Group107_427 Group106_426 Group104_403 Group103_393 Group102_392 Group66_257 Group67_261 Group101_390 Group68_389 Group70_267 Group71_269 Group89_340 Group88_341 Group90_344 Depot 6

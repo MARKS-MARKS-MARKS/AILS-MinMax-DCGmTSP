@@ -1,0 +1,11 @@
+The instance is D:\Path planning-6\Path planning-6\Path planning-4\instance_after\kroA200_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 5317.04
+The time which meets the best is: 1839.95
+The time consuming is  1839.95
+The time to meet the Best solution is 1839.95
+1 tour starts Depot 1: Group32_87 Group11_104 Group10_14 Group29_60 Group35_193 Group3_69 Group24_142 Depot 1
+2 tour starts Depot 2: Group33_88 Group22_39 Group28_54 Group6_6 Group31_187 Group13_157 Group17_120 Group8_112 Group15_17 Depot 2
+3 tour starts Depot 3: Group20_111 Group1_132 Group21_40 Group12_12 Group4_149 Group16_190 Group27_66 Group14_118 Group9_78 Group7_7 Depot 3
+4 tour starts Depot 4: Group26_137 Group5_86 Group19_173 Group2_2 Group25_35 Group23_169 Group18_164 Group30_76 Group34_195 Depot 4

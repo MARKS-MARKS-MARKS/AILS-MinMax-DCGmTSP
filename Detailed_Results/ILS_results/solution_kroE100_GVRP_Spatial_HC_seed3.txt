@@ -1,0 +1,11 @@
+The instance is C:\Users\ASUS\Desktop\Path planning-6\Path planning-4\instance_after\kroE100_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 4933.78
+The time which meets the best is: 121.29
+The time consuming is  121.29
+The time to meet the Best solution is 121.29
+1 tour starts Depot 1: Group14_24 Group16_91 Group4_93 Group15_39 Depot 1
+2 tour starts Depot 2: Group12_28 Group9_49 Group13_84 Group1_1 Group6_98 Depot 2
+3 tour starts Depot 3: Group2_67 Group8_9 Group10_13 Group5_70 Depot 3
+4 tour starts Depot 4: Group3_26 Group11_52 Group7_8 Depot 4

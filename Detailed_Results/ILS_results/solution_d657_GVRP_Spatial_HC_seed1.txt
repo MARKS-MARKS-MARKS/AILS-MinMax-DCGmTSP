@@ -1,0 +1,13 @@
+The instance is E:\Path planning-6\Path planning-4\instance_after\d657_GVRP_Spatial.txt
+The number of p is 6
+The output solution is non-optimal
+The longest Distance is: 6199.22
+The time which meets the best is: 3789.89
+The time consuming is  3789.89
+The time to meet the Best solution is 3789.89
+1 tour starts Depot 1: Group3_5 Group4_6 Group25_118 Group24_102 Group22_94 Group13_74 Group14_55 Group10_51 Group9_41 Group7_22 Group5_8 Group6_10 Group2_2 Group1_1 Depot 1
+2 tour starts Depot 2: Group97_475 Group95_477 Group96_480 Group98_516 Group102_517 Group101_514 Group99_490 Group18_498 Group19_89 Group16_84 Group20_111 Group30_144 Group32_148 Group33_149 Group23_140 Group15_87 Group21_91 Group17_67 Group12_48 Group11_469 Group94_459 Group93_447 Group8_448 Depot 2
+3 tour starts Depot 3: Group135_647 Group136_648 Group137_650 Group132_628 Group112_563 Group109_553 Group107_554 Group110_556 Group111_558 Group108_552 Group106_543 Group103_524 Group104_541 Group105_542 Group133_636 Group134_640 Depot 3
+4 tour starts Depot 4: Group82_400 Group74_391 Group87_410 Group79_399 Group83_405 Group77_371 Group66_343 Group64_293 Group55_304 Group72_324 Group65_308 Group62_272 Group45_235 Group46_219 Group37_192 Group27_187 Group29_186 Group36_191 Group28_164 Group52_238 Group60_270 Depot 4
+5 tour starts Depot 5: Group92_436 Group90_431 Group78_387 Group80_374 Group68_359 Group67_311 Group59_301 Group61_271 Group50_233 Group42_216 Group47_222 Group44_215 Group43_208 Group49_225 Group38_193 Group31_189 Group34_153 Group26_137 Group100_509 Group35_190 Group40_204 Group39_212 Group53_245 Group54_257 Group63_284 Group58_287 Group69_314 Group70_333 Group75_363 Group81_381 Group89_419 Group88_412 Group85_408 Group76_404 Group84_426 Depot 5
+6 tour starts Depot 6: Group130_624 Group91_625 Group128_621 Group86_623 Group73_357 Group71_332 Group57_307 Group56_281 Group48_259 Group51_581 Group41_203 Group113_571 Group116_575 Group119_579 Group115_574 Group114_573 Group131_627 Group117_576 Group120_580 Group118_589 Group122_600 Group125_604 Group123_595 Group124_603 Group121_597 Group126_609 Group127_613 Group129_622 Depot 6

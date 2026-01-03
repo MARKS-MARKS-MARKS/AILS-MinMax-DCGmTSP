@@ -1,0 +1,15 @@
+The instance is D:\Path planning-6\Path planning-6\Path planning-4\instance_after\fl1400_GVRP_Spatial.txt
+The number of p is 8
+The output solution is non-optimal
+The longest Distance is: 3054.59
+The time which meets the best is: 7200.35
+The time consuming is  7200.35
+The time to meet the Best solution is 7200.35
+1 tour starts Depot 1: Group169_1400 Group4_4 Group105_212 Group163_1256 Group162_1267 Group168_1399 Group164_1369 Group165_1370 Group166_1371 Group131_1133 Group132_967 Group134_1030 Group133_1143 Group135_1119 Group136_1048 Group138_988 Group137_1127 Depot 1
+2 tour starts Depot 2: Group160_1361 Group161_1252 Group47_63 Group97_262 Group96_261 Group46_62 Group113_266 Group61_99 Group64_100 Group67_104 Group68_105 Depot 2
+3 tour starts Depot 3: Group159_1367 Group124_803 Group123_892 Group125_918 Group126_758 Group128_821 Group127_902 Group130_830 Group129_954 Group104_198 Group60_97 Group99_167 Group50_66 Group53_69 Group100_168 Group57_86 Group63_189 Group59_287 Group54_70 Group51_67 Group114_267 Group101_268 Group49_269 Group102_210 Group58_211 Group66_103 Group62_293 Group55_188 Group103_194 Group52_89 Group65_192 Group69_295 Group71_109 Depot 3
+4 tour starts Depot 4: Group153_1283 Group154_1284 Group155_1285 Group167_1398 Group156_1288 Group157_1350 Group158_1248 Group70_107 Group56_76 Group48_265 Group98_165 Group2_2 Depot 4
+5 tour starts Depot 5: Group122_544 Group149_1208 Group148_1207 Group147_1217 Group146_1231 Group5_5 Group9_119 Group14_225 Group8_10 Group6_8 Group7_7 Group15_21 Group12_205 Group17_230 Group21_32 Group23_207 Group16_30 Group24_36 Group76_132 Group18_29 Group3_3 Depot 5
+6 tour starts Depot 6: Group152_1375 Group151_1320 Group150_1220 Group107_220 Group74_118 Group111_243 Group26_38 Group27_40 Group37_50 Group39_53 Group41_255 Group42_56 Group45_61 Group44_59 Group92_158 Group90_156 Group87_151 Group88_153 Group40_54 Group38_149 Group34_47 Group32_45 Group85_147 Group29_42 Group81_139 Group80_240 Group121_677 Group120_530 Group119_646 Depot 6
+7 tour starts Depot 7: Group118_386 Group117_436 Group116_316 Group77_237 Group109_238 Group78_136 Group28_41 Group31_44 Group43_257 Group93_159 Group95_161 Group89_253 Group91_157 Group35_51 Group36_49 Group33_46 Group86_148 Group84_146 Group83_145 Group112_245 Group30_43 Group79_137 Group20_234 Group10_13 Group73_117 Group11_19 Group13_130 Group108_233 Group75_129 Group22_232 Group19_27 Depot 7
+8 tour starts Depot 8: Group1_1 Group106_209 Group82_144 Group94_160 Group25_39 Group110_242 Group72_216 Group115_298 Group145_1331 Group144_1215 Group143_1205 Group142_1204 Group141_1203 Group140_1302 Group139_1181 Depot 8

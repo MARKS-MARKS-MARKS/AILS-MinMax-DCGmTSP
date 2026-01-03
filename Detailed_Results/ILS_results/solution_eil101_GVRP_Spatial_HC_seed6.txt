@@ -1,0 +1,11 @@
+The instance is D:\Path planning-6\Path planning-6\Path planning-4\instance_after\eil101_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 97.27
+The time which meets the best is: 69.74
+The time consuming is  69.74
+The time to meet the Best solution is 69.74
+1 tour starts Depot 1: Group13_37 Group6_92 Group5_85 Group12_44 Depot 1
+2 tour starts Depot 2: Group9_65 Group15_66 Group1_51 Group3_81 Depot 2
+3 tour starts Depot 3: Group14_49 Group8_47 Group7_62 Group10_11 Depot 3
+4 tour starts Depot 4: Group16_55 Group11_26 Group2_21 Group4_56 Depot 4

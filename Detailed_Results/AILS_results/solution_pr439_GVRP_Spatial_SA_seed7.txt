@@ -1,0 +1,11 @@
+The instance is C:\Users\24965\Desktop\Path planning-6\Path planning-6\Path planning-4\instance_after\pr439_GVRP_Spatial.txt
+The number of p is 4
+The output solution is non-optimal
+The longest Distance is: 21532.17
+The time which meets the best is: 7200.47
+The time consuming is  7200.47
+The time to meet the Best solution is 7200.47
+1 tour starts Depot 1: Group75_434 Group77_438 Group76_437 Group78_439 Group40_283 Group41_284 Group50_342 Group49_341 Group53_373 Group56_382 Group58_398 Group63_407 Group65_413 Group61_403 Group64_410 Group72_425 Group71_427 Group74_430 Depot 1
+2 tour starts Depot 2: Group4_18 Group12_68 Group5_65 Group6_29 Group7_31 Group3_33 Group10_60 Group11_61 Group13_74 Group21_109 Group20_144 Group25_145 Group24_185 Group29_224 Group39_275 Group45_298 Group46_302 Group36_305 Group47_322 Group48_321 Group38_260 Group37_244 Group28_214 Group27_176 Group22_160 Group23_137 Group19_124 Group18_125 Group16_95 Group17_96 Depot 2
+3 tour starts Depot 3: Group15_85 Group14_84 Group1_50 Group2_48 Group9_55 Group8_54 Group30_187 Group31_225 Group35_280 Group42_287 Group34_230 Group33_282 Group32_226 Group26_186 Depot 3
+4 tour starts Depot 4: Group68_418 Group62_405 Group60_404 Group59_401 Group57_387 Group51_378 Group52_370 Group44_351 Group43_350 Group54_377 Group55_379 Group66_414 Group70_420 Group69_419 Group67_415 Group73_431 Depot 4
